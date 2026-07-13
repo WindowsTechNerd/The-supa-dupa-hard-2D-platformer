@@ -1,0 +1,3 @@
+# TemplateData
+
+Required for webGL
